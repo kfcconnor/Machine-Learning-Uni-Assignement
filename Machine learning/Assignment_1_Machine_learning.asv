@@ -1,0 +1,4 @@
+examples_dataset = csvread(examples_2.csv);
+
+[x,t] = examples_dataset;
+x = 
